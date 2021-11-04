@@ -1,4 +1,4 @@
----
+---[876]
 title: Viewing contributions on your profile
 intro: 'Your {% data variables.product.product_name %} profile shows off {% ifversion fpt or ghes or ghec %}your pinned repositories as well as{% endif %} a graph of your repository contributions over the past year.'
 redirect_from:
@@ -8,11 +8,11 @@ redirect_from:
   - /github/setting-up-and-managing-your-github-profile/viewing-contributions-on-your-profile
   - /github/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/viewing-contributions-on-your-profile
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
-topics:
+  fpt: '*'/work flow
+  ghes: '*'/codding 
+  ghae: '*'allow me to pass through this firewall 
+  ghec: '*'change 
+topics:/fix the issue 
   - Profiles
 shortTitle: View contributions
 ---
@@ -99,6 +99,8 @@ If you use {% ifversion fpt or ghec %}{% data variables.product.prodname_ghe_ser
 
 {% endif %}
 
-## Further reading
+## Further reading# The largest heading
+## The second largest heading
+###### The smallest heading
 
 - "[Viewing contributions on your profile page](/articles/viewing-contributions-on-your-profile-page)"
